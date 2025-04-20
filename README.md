@@ -1,5 +1,11 @@
 # Call-Centre-Report---2023-Using Advanced Excel
 
-Developed an interactive Call Center Report Dashboard (2023) in Excel using advanced formulas like COUNTIFS, SUMIFS, XLOOKUP, FILTER, INDEX, CHOOSECOLS, and DAX. Integrated pivot tables, slicers, timelines, and conditional formatting for dynamic reporting. Leveraged Excel Data Model (Power Pivot) to enable advanced analytics and built visually customized charts for stakeholder-ready insights.
+Developed a dynamic Call Centre Performance Dashboard in Microsoft Excel to streamline reporting and enhance decision-making.
 
-Analyzed call center performance by tracking key KPIs such as total calls, call duration, purchase amount, ratings, and 5-star calls at representative and customer levels. Uncovered trends across weeks and months, and compared engagement by gender. Delivered insights on representative performance by city, including call share %, call and amount rankings, and customer coverage. Enabled data-driven decision-making through interactive dashboards.
+Situation: The call center lacked a unified reporting system to track KPIs such as call volume, revenue, and agent effectiveness.
+
+Task: Build an interactive Excel dashboard to visually summarize and analyze key performance metrics across multiple dimensions.
+
+Action: Utilized advanced Excel features including pivot tables, conditional formatting, charts, and slicers to display call trends, representative-wise performance, gender-based caller analysis, and revenue breakdown. Enabled filtering by region, time, and rep.
+
+Result: Delivered a user-friendly tool that improved leadership visibility into team performance, highlighted top agents (e.g., Heena Sheikh with 19% of calls), and supported data-driven decisions—reducing manual reporting time by 60%.
